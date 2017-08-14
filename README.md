@@ -1,12 +1,12 @@
 # LandMrk
 
-Welcome to LandMrk! LandMrk is a virtual tour assistant that allows the user to identify historical locations and monuments through the use of Augmented Reality technology. 
+Welcome to LandMrk! LandMrk serves as a virtual tour assistant and 'mobile musuem' that incentivizes users to interact with historical landmarks through the use of Augmented Reality technology. 
 
-When the user opens the app, they have access via geolocation to all available "landmarks" nearby. The user may choose to then tap the marker to view a short historical blurb on the landmark and are given the choice to further expand that blurb into a more detailed explanation.
+When the user opens the app, geolocation services will display any and all registered "landmarks" nearby. The user may then choose to tap the marker in order to preview a short historical sample pertaining to their choice. Additionally, if the user seeks to gain further knowledge pertaining to the landmark, readily-available resources are supplied to expand upon the displayed sample in Marker View.
 
-AR technology is implemented through a camera view, in which users may view the landmark markers in real time in the user's environment, and will see the short historical blurb overlay the landmark right in their camera view.
+AR View utilizes a device's camera lens, rendering a marker over the user's landmark of choice in real time. Then, a virtually augmented 'world' loads into view, displaying the short historical blurb.
 
-LandMrk is a community driven service and therefore users are given the ability to create their own landmarks if none exists for a previous location!
+Most importantly, LandMrk exists as a community driven service and thus, users are encouraged to create their own landmarks if none exists for a previous location!
 
 
 ## Team
